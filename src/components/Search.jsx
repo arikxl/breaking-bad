@@ -21,7 +21,6 @@ const Search = ({getQuery}) => {
                     onChange={(e) => onChange(e.target.value)}
                 />
             </form>
-            
         </section>
     );
 };
