@@ -186,7 +186,7 @@ input[type='text'] {
 
 @media (max-width: 800px) {
 
-  .random-btn, .quote-btn{
+  .death-btn, .quote-btn{
     width: 25%;
     font-size: 1rem;
     padding: 10px 0;
@@ -211,7 +211,7 @@ input[type='text'] {
     flex-direction: column;
   }
   
-  .random-btn, .quote-btn{
+  .death-btn, .quote-btn{
     margin:5px auto;
     display: block;
     font-size: 15px;
